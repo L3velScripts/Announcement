@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/L3velScripts/LevelDuels/refs/heads/main/sab
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/6a720b8fb59569e71d2f2f0a4e422a6ca31a390be736144348ffd429791bc9ee.lua"))()
